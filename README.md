@@ -27,6 +27,8 @@ This is not a scientific or medical tool. Use at your own risk. BETA! There migh
 
 ## Installation / Requirements / Documentation
 Needs Python 3.x installed. Tested on Ubuntu. Should run on Window and Mac, too.
+python 3.6 OS系统需要验证 因为python3.6不依赖苹果系统的openssl（网络安全加密）需要自己安装python自带的openssl
+如何安装：在文件系统中搜索 Install Certificates.command 点击并运行
   
 ```
 # everything after the hash symbol # is a comment
